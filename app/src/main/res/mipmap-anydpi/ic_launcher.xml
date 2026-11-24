@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- API 26 以下的回退图标（矢量） -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:pathData="M0,0 L108,0 L108,108 L0,108 Z"
+        android:fillColor="#F6F3ED" />
+    <path
+        android:pathData="M54,26 L82,38 L82,70 L54,82 L26,70 L26,38 Z"
+        android:fillColor="#4E6B55" />
+    <path
+        android:pathData="M54,26 L82,38 L54,50 L26,38 Z"
+        android:fillColor="#6B8A72" />
+    <path
+        android:pathData="M50,44 L58,44 L58,82 L50,82 Z"
+        android:fillColor="#F2E9DA" />
+</vector>

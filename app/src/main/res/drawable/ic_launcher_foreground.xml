@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 箱子主体 -->
+    <path
+        android:pathData="M54,26 L82,38 L82,70 L54,82 L26,70 L26,38 Z"
+        android:fillColor="#4E6B55" />
+    <!-- 顶部高光 -->
+    <path
+        android:pathData="M54,26 L82,38 L54,50 L26,38 Z"
+        android:fillColor="#6B8A72" />
+    <!-- 封箱带 -->
+    <path
+        android:pathData="M50,44 L58,44 L58,82 L50,82 Z"
+        android:fillColor="#F2E9DA" />
+</vector>
